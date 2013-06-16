@@ -10,7 +10,6 @@ for line in f:
 
 f.close()
 
-#this is a test
 
 scores = {"A": 1, "C": 3, "B": 3, "E": 1, "D": 2, "G": 2,
          "F": 4, "I": 1, "H": 4, "K": 5, "J": 8, "M": 3,
